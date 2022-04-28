@@ -4,4 +4,4 @@ En esta entrega paso los mismos ejercicios que entregué la última vez, pero en
 
 Colaborador: Jorge Diamantopoulos
 
-link al repositorio: 
+link al repositorio: https://github.com/Jorgediamanto/Ejercicios-de-Ordenar
